@@ -53,10 +53,6 @@ I love solving real-world problems through code and continuously expanding my kn
 <a href="https://www.linkedin.com/in/patilronit" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
- &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/ronit_patil_001" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-</a>
 </p>
 
 <br>
