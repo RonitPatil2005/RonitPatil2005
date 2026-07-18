@@ -1,34 +1,97 @@
 ![logo](https://github.com/RonitPatil2005/RonitPatil2005/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Ronit Patil</h1>
-<h3 align="center">Turning ideas into responsive and scalable web applications. 💻</h3><br>
-<img align="right" alt="coding" width="400" src="https://img.magnific.com/premium-vector/professional-programmer-working-code-screen-from-back-view_1310786-28387.jpg">
 
+<h3 align="center">
+MERN Stack Developer | Electronics & Computer Engineering Student | Passionate about AI & Machine Learning
+</h3>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA), Next.js, TypeScript, AI & Machine Learning**
+<img align="right" alt="Coding" width="400" src="https://img.magnific.com/premium-vector/professional-programmer-working-code-screen-from-back-view_1310786-28387.jpg">
 
-- 👨‍💻 All of my projects are available at [https://github.com/RonitPatil2005?tab=repositories](https://github.com/RonitPatil2005?tab=repositories)
+## 👨‍💻 About Me
 
-- 📫 How to reach me **ronitrpatil16@gmail.com**
+I'm a passionate **MERN Stack Developer** and **Electronics & Computer Engineering** student who enjoys building modern, responsive, and user-friendly web applications.
 
-<h3 align="left">Connect with me:</h3>
+I love solving real-world problems through code and continuously expanding my knowledge in **Full Stack Development, Artificial Intelligence, Machine Learning, and emerging technologies.**
+
+- 🎓 B.E. Electronics & Computer Engineering Student
+- 💻 MERN Stack Developer
+- 🚀 Building scalable and responsive web applications
+- 🌱 Always learning and exploring new technologies
+
+<br>
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms (DSA)
+- Next.js
+- TypeScript
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+
+<br>
+
+## 💼 Experience
+
+- 💻 Frontend Developer Intern – **Edunet Foundation (AICTE)**
+- 🌐 Web Developer Intern – **Vaults of Code**
+
+<br>
+
+## 📫 Contact Me
+
+- 📧 Email: **ronitrpatil16@gmail.com**
+- 🌐 Portfolio: **https://ronits-portfolio.netlify.app/**
+- 💼 LinkedIn: **https://www.linkedin.com/in/patilronit**
+- 💻 GitHub: **https://github.com/RonitPatil2005**
+
+<br>
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/patilronit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronit patil" height="30" width="40" /></a>
-<a href="https://instagram.com/ronit_patil_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronit_patil_001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patilronit" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/ronit_patil_001" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;&nbsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45"/>
+
+</p>
+
+<br>
 
 
+## 💡 Quote
+
+> **"Every line of code is an opportunity to learn, improve, and create something meaningful."**
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+Let's connect and build something amazing together 🚀
+</p>
