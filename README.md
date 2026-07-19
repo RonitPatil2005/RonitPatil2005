@@ -1,4 +1,4 @@
-![logo](https://github.com/RonitPatil2005/RonitPatil2005/blob/main/Banner.png)
+![logo](https://github.com/RonitPatil2005/RonitPatil2005/blob/main/Banner1.png)
 
 <h1 align="center">Hi 👋, I'm Ronit Patil</h1>
 
